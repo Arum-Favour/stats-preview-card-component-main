@@ -1,4 +1,4 @@
-body{
+@media (min-width: 865px) { body{
     background-color: hsl(233, 47%, 7%);
     font-family: "Inter", sans-serif;
 }
@@ -63,3 +63,4 @@ img{
     width: 50%;
     height: 100%;
 }
+} 

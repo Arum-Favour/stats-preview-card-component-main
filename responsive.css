@@ -1,0 +1,11 @@
+@media  (min-width:400px) and (max-width: 800px){
+    body{
+    background-color: blue;
+}
+}
+
+/* @media (min-width:399px) {
+    body{
+        background-color: red;
+    }
+} */
